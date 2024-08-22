@@ -1,0 +1,30 @@
+[
+{
+	 
+	"EquipmentDescription":"COOLER_G319_1D",
+	"InquiryType":"Equipment",
+	"EquipmentType":"Cooler",
+	"EquipmentTypeDetail":"Cooler",
+	"TypeOfEquipmentEnquiry":"My equipment needs repair/maintenance.",
+	
+	"EquipmentProblem":"We have a leak.",
+	"WhatIsLeaking":"Water is pooling under the machine.",
+	"CustomerConatinedWater":"No",
+	"WaterInTrafficArea":"No",
+	"CustomerAcceptedPhoneFix":"No",
+	"PhoneFixRejectionReason":"Language barrier",
+	"CaseStatus":"New",
+	"CaseOrigin":"Phone",
+"AliasLogin":"Offshore Agent 5200",
+	"DetailDescription":"Equipment case description",
+	"ESTProblemReported":"Condensation/Leaking Severe",
+	"Equipmentproblem":"Leaking",
+     "ContactNumber":"(123) 456-7890",
+   "Comments":"Testing Comment",
+"ExpectedValue":"Out of Scope"
+	
+	
+	
+}
+
+]

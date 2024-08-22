@@ -1,0 +1,15 @@
+[
+
+{
+     "ReportType":"Accounts",
+     "Filter":"Preferred Order",
+     "value":"Call Center",
+     "Reportname":"Automation_Verify Alerts",
+     "RSGName":"Test Group",
+     "AlertName":"Test-Alert",
+     "searchapp":"Retail Store Groups",
+     "TargetGroupMember":"Target Group Member",
+     "TargetGroupSize":"Target Group Size"
+}
+
+]

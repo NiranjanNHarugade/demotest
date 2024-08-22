@@ -1,0 +1,14 @@
+[
+{
+	"ReportType":"Accounts",
+     "Filter":"Preferred Order",
+     "value":"Call Center",
+     "Reportname":"Test report",
+     "RSGName":"Test Group",
+     "searchapp":"Retail Store Groups",
+     "TargetGroupMember":"Target Group Member",
+     "TargetGroupSize":"Target Group Size"
+    
+    
+}
+]

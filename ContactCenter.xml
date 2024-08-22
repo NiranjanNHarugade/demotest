@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite" verbose="10">
+
+	
+	<test thread-count="5" name="Test1">
+		<classes>
+			<class name="ProjectDevOps.Accounts" />
+		</classes>
+	</test>
+
+	<test thread-count="5" name="Test2">
+		<classes>
+			<class name="ProjectDevOps.Cases" />
+		</classes>
+	</test>
+	
+	<test thread-count="5" name="Test3">
+		<classes>
+			<class name="ProjectDevOps.CSTRoutingValidation" />
+		</classes>
+	</test>
+	
+	<test thread-count="5" name="Test4">
+		<classes>
+			<class name="ProjectDevOps.CST_Routing" />
+		</classes>
+	</test>
+	
+
+
+</suite> 

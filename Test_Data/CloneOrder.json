@@ -1,0 +1,47 @@
+[
+{
+
+	"Order":"Orders",
+	"SalesDocumentTypeZOR":"Standard Sales Order(ZOR)",
+	"SalesDocumentTypeZMKT":"Sampling / Donations(ZMKT)",
+	"SalesDocumentTypeZFRE":"Free Goods Sales Order(ZFRE)",
+	"SalesDocumentTypeZOE":"Planned Empties Returns(ZOE)",
+	"SalesDocumentTypeZRET":"Trade Returns-Driver Pick-Up(ZRET)",
+	
+	
+	"StatusShipement":"Prep for Shipment",
+	"StatusDispatched":"Dispatched",
+	"StatusOutforDelivery":"Out for Delivery",
+	"StatusDelivered":"Delivered",
+	"StatusDraft":"Draft",
+	"StatusPending":"Pending",
+	"StatusConfirmed":"Confirmed",
+	"StatusInError":"In Error",
+	"StatusSettlement":"In Settlement",
+	"StatusNotDelivered":"Not Delivered",
+	"StatusCancelled":"Cancelled",
+	
+	
+	"OrderOrigin":"Phone",
+	"OrderStatus":"Draft",
+	
+	
+	"OneTimeDeliveryNote":"Testing Delivery Note",
+	"OneTimeDispatchNote":"Testing Dispatch Note",
+	
+	
+	"AliasLogin":"Offshore Agent 4200",
+	"ListViewSelection":"Copy of Automation_List_All_Orders",
+	"ShoppingCartFields":"Shopping Cart Fields",
+	"ClassName":"slds-tabs_default__content slds-show",
+	
+	"ShoppingCartButton":"Shopping Cart Buttons",
+	"DeliveryInfoField":"Delivery Information fields",
+	"DispatchInfoField":"Dispatch Information fields",
+	"OrderSorting":"Sorted Ascending",
+	"SinteStatus":"sinte",
+	"CreatedBy":"SAP PI Integration User"
+	
+	
+}
+]
